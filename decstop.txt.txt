@@ -1,3 +1,6 @@
 file created whit git decstop
 
 added second line with git decstop commit
+
+added line throught git bash commit
+
